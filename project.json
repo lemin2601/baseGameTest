@@ -1,0 +1,47 @@
+{
+    "project_type": "javascript",
+    "debugMode": 1,
+    "showFPS": true,
+    "frameRate": 60,
+    "noCache": false,
+    "id": "gameCanvas",
+    "renderMode": 0,
+    "engineDir": "frameworks/cocos2d-html5",
+    "modules": [
+        "cocos2d",
+        "cocostudio",
+        "external",
+        "extensions"
+    ],
+    "jsListOrder": [
+        "src/libs/*.js",
+        "src/Resource.js",
+        "src/*.js",
+        "src/core/*.js",
+        "src/core/*/*.js",
+        "src/*.js",
+        "src/**/*.js",
+        "src/app.js"
+    ],
+    "jsList": [
+        "src/libs/core.min.js",
+        "src/Resource.js",
+        "src/GlobalVar.js",
+        "src/LangKey.js",
+        "src/core/AudioMgr.js",
+        "src/core/StorageMgr.js",
+        "src/core/ui/BaseCocosStudio.js",
+        "src/core/ui/BaseNode.js",
+        "src/core/ui/BaseScene.js",
+        "src/core/update/UpdateResource.js",
+        "src/core/utils/Log.js",
+        "src/modules/lang/LangMgr.js",
+        "src/modules/loading/LoadResource.js",
+        "src/modules/loading/SceneLoading.js",
+        "src/modules/menu/SceneMenu.js",
+        "src/modules/popup/PopupData.js",
+        "src/modules/popup/Popups.js",
+        "src/modules/update/SceneUpdate.js",
+        "src/app.js"
+    ]
+}

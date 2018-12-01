@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f4cc193-66c9-40e0-8d60-b537620367ad" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5026511">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/main.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1335">
+                  <caret line="111" selection-start-line="111" selection-end-line="111" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="project.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/project.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="249">
+                  <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/app.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="294">
+                  <caret line="57" selection-start-line="57" selection-end-line="57" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AudioMgr.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/core/AudioMgr.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="75">
+                  <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="StorageMgr.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/core/StorageMgr.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="jsb_cocos2dx_auto_api.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/api/jsb_cocos2dx_auto_api.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="106440">
+                  <caret line="7096" column="1" selection-start-line="7096" selection-start-column="1" selection-end-line="7096" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="UpdateResource.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/core/update/UpdateResource.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2040">
+                  <caret line="136" column="11" selection-start-line="136" selection-start-column="11" selection-end-line="136" selection-end-column="11" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="GlobalVar.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/GlobalVar.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="45">
+                  <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="project.manifest" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/project.manifest">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="slider_bar_active_9patch2.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/res/texture/normal/slider_bar_active_9patch2.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file leaf-file-name="sliderProgress2.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/res/texture/normal/sliderProgress2.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file leaf-file-name="sliderTrack.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/res/texture/normal/sliderTrack.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file leaf-file-name="sliderballnormal.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/res/texture/normal/sliderballnormal.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file leaf-file-name="stepper-plus.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/res/texture/normal/stepper-plus.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file leaf-file-name="switch-mask.png" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/res/texture/normal/switch-mask.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file leaf-file-name="switch-off.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/res/texture/normal/switch-off.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file leaf-file-name="switch-on.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/res/texture/normal/switch-on.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file leaf-file-name="switch-thumb.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/res/texture/normal/switch-thumb.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file leaf-file-name="slider_bar_active_9patch.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/res/texture/normal/slider_bar_active_9patch.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setVersionCompareHandlesetVersionCompareHandle</find>
+      <find>setVersionCompareHandle</find>
+      <find>_downloader</find>
+      <find>onSuccess</find>
+      <find>parseVersion</find>
+      <find>onSu</find>
+      <find>downloadVersion</find>
+      <find>DOWNLOADING_VERSION</find>
+      <find>VERSION_ID</find>
+      <find>versionGreater</find>
+      <find>DLLOG</find>
+      <find>resizing index size fro</find>
+      <find>reIndex</find>
+      <find>_onSchedule</find>
+      <find>android downloader</find>
+      <find>onTaskProgress</find>
+      <find>onFileTaskSuccess</find>
+      <find>DownloadTask</find>
+      <find>_taskMap</find>
+      <find>createDownloadFileTask</find>
+      <find>jsb.AssetsManager::State</find>
+      <find>don't update it again</find>
+      <find>initDefaultProjectManifest</find>
+      <find>initAssetsManager.</find>
+      <find>updating..</find>
+      <find>face</find>
+      <find>Cocos2d-JS</find>
+      <find>copyFil</find>
+      <find>let</find>
+      <find>setDelegate</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>let</replace>
+      <replace>AssetsManager.State</replace>
+      <replace>var</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/frameworks/cocos2d-x</dir>
+      <dir>$PROJECT_DIR$/frameworks/cocos2d-x/cocos/network</dir>
+      <dir>$PROJECT_DIR$/frameworks</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/version_generator.js" />
+        <option value="$PROJECT_DIR$/version.manifest" />
+        <option value="$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/manual/ScriptingCore.cpp" />
+        <option value="$PROJECT_DIR$/frameworks/cocos2d-x/extensions/assets-manager/Manifest.h" />
+        <option value="$PROJECT_DIR$/simulator/android/baseGame-debug/assets/project.manifest" />
+        <option value="$PROJECT_DIR$/remote-assets/project.manifest" />
+        <option value="$PROJECT_DIR$/frameworks/cocos2d-x/extensions/assets-manager/AssetsManagerEx.cpp" />
+        <option value="$PROJECT_DIR$/frameworks/cocos2d-x/cocos/network/CCIDownloaderImpl.h" />
+        <option value="$PROJECT_DIR$/frameworks/cocos2d-x/cocos/network/CCDownloader-curl.cpp" />
+        <option value="$PROJECT_DIR$/frameworks/cocos2d-x/cocos/network/CCDownloader.cpp" />
+        <option value="$PROJECT_DIR$/frameworks/cocos2d-x/cocos/network/CCDownloader-android.cpp" />
+        <option value="$PROJECT_DIR$/httpsrv.py" />
+        <option value="$PROJECT_DIR$/src/project.manifest" />
+        <option value="$PROJECT_DIR$/ExtSimpleHTTPServer.py" />
+        <option value="$PROJECT_DIR$/simple-https-server.py" />
+        <option value="$PROJECT_DIR$/deploy" />
+        <option value="$PROJECT_DIR$/src/framework/ui/Popus.js" />
+        <option value="$PROJECT_DIR$/src/framework/ui/Popups.js" />
+        <option value="$PROJECT_DIR$/src/framework/ui/BaseNode.js" />
+        <option value="$PROJECT_DIR$/../deploy/cdn/res/ui/scene_menu.json" />
+        <option value="$PROJECT_DIR$/../deploy/cdn/src/modules/menu/SceneMenu.js" />
+        <option value="$PROJECT_DIR$/src/framework/ui/BaseScene.js" />
+        <option value="$PROJECT_DIR$/src/framework/ui/BaseCocosStudio.js" />
+        <option value="$PROJECT_DIR$/src/modules/loading/SceneLoading.js" />
+        <option value="$PROJECT_DIR$/publish/html5/game.min.js" />
+        <option value="$PROJECT_DIR$/project.manifest" />
+        <option value="$PROJECT_DIR$/res/ui/scene_menu.json" />
+        <option value="$PROJECT_DIR$/src/framework/UpdateResource.js" />
+        <option value="$PROJECT_DIR$/src/framework/LangMgr.js" />
+        <option value="$PROJECT_DIR$/src/modules/GlobalVar.js" />
+        <option value="$PROJECT_DIR$/src/LangKey.js" />
+        <option value="$PROJECT_DIR$/src/modules/update/SceneUpdate.js" />
+        <option value="$PROJECT_DIR$/src/core/Storage.js" />
+        <option value="$PROJECT_DIR$/src/core/Audio.js" />
+        <option value="$PROJECT_DIR$/src/core/StorageMgr.js" />
+        <option value="$PROJECT_DIR$/src/modules/lang/LangMgr.js" />
+        <option value="$PROJECT_DIR$/src/core/ui/BaseCocosStudio.js" />
+        <option value="$PROJECT_DIR$/src/core/ui/BaseScene.js" />
+        <option value="$PROJECT_DIR$/src/GlobalVar.js" />
+        <option value="$PROJECT_DIR$/src/core/ui/BaseNode.js" />
+        <option value="$PROJECT_DIR$/src/modules/popup/PopupData.js" />
+        <option value="$PROJECT_DIR$/src/modules/menu/SceneMenu.js" />
+        <option value="$PROJECT_DIR$/dev.json" />
+        <option value="$PROJECT_DIR$/src/Resource.js" />
+        <option value="$PROJECT_DIR$/src/core/AudioMgr.js" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/src/StorageKey.js" />
+        <option value="$PROJECT_DIR$/src/core/update/UpdateResource.js" />
+        <option value="$PROJECT_DIR$/src/modules/popup/Popups.js" />
+        <option value="$PROJECT_DIR$/project.json" />
+        <option value="$PROJECT_DIR$/src/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/frameworks/cocos2d-x/external/tinydir/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="baseGameTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baseGameTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baseGameTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baseGameTest" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baseGameTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baseGameTest" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="texture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baseGameTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baseGameTest" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="texture" type="462c0819:PsiDirectoryNode" />
+              <item name="normal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baseGameTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baseGameTest" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baseGameTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baseGameTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baseGameTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baseGameTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baseGameTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baseGameTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baseGameTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baseGameTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="update" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baseGameTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baseGameTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baseGameTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baseGameTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baseGameTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baseGameTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="popup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baseGameTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baseGameTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="update" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="CCTex&#9;null&#9;null&#10;TextFieldTTF&#9;FILE&#9;file:///Users/leemin/cocos/project/baseGame/baseGameTest/frameworks/cocos2d-html5/cocos2d/text-input/CCTextFieldTTF.js&#10;Layer&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/modules/popup" />
+      <recent name="$PROJECT_DIR$/src/core/utils" />
+      <recent name="$PROJECT_DIR$/src/core/update" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/modules/loading" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/texture/normal" />
+      <recent name="$PROJECT_DIR$/res/fronts" />
+      <recent name="$PROJECT_DIR$/res/sounds" />
+      <recent name="$PROJECT_DIR$/src/framework/ui" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" editBeforeRun="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://127.0.0.1:8000" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f4cc193-66c9-40e0-8d60-b537620367ad" name="Default" comment="" />
+      <created>1542540031661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542540031661</updated>
+      <workItem from="1542540033990" duration="8640000" />
+      <workItem from="1542730540843" duration="2832000" />
+      <workItem from="1542779710811" duration="14131000" />
+      <workItem from="1542796638332" duration="24425000" />
+      <workItem from="1542899229934" duration="6008000" />
+      <workItem from="1543042170415" duration="34871000" />
+      <workItem from="1543201046255" duration="23875000" />
+      <workItem from="1543416638482" duration="4126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="118908000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989339" visible="true" weight="0.17668097" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="right" id="Structure" order="3" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.15307583" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.31030303" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3987879" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.31636363" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/modules/popup/Popups.js</url>
+          <line>64</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/res/lang/en.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/runtime-src/proj.android/app/build/intermediates/assets/debug/src/framework/UpdateResource.js" />
+    <entry file="file://$PROJECT_DIR$/simulator/android/baseGame-debug/assets/src/framework/UpdateResource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="285" selection-start-line="285" selection-end-line="296" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12993" column="4" selection-start-line="12993" selection-start-column="4" selection-end-line="12993" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publish/html5/game.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="26651" column="11" selection-start-line="26651" selection-start-column="11" selection-end-line="26651" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/audio/CCAudio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="682" column="18" selection-start-line="682" selection-start-column="8" selection-end-line="682" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/UploadResource.js" />
+    <entry file="file://$PROJECT_DIR$/src/modules/lang/LangMgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/ui/BaseCocosStudio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/ui/BaseScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/popup/PopupData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/ui/BaseNode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionInterval.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35835">
+          <caret line="2413" selection-start-line="2413" selection-end-line="2413" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionInstant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10650">
+          <caret line="734" selection-start-line="734" selection-end-line="734" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/menu/SceneMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCDirector.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="277" column="37" selection-start-line="277" selection-start-column="13" selection-end-line="277" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/update/SceneUpdate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/StorageMgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LangKey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GlobalVar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/AudioMgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1335">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/api/jsb_cocos2dx_auto_api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106440">
+          <caret line="7096" column="1" selection-start-line="7096" selection-start-column="1" selection-end-line="7096" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.manifest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/update/UpdateResource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="136" column="11" selection-start-line="136" selection-start-column="11" selection-end-line="136" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StorageKey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/fonts/arial.ttf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/popup/Popups.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="21" lean-forward="true" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/layers/CCLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/base-nodes/CCNode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="215" column="20" lean-forward="true" selection-start-line="215" selection-start-column="20" selection-end-line="215" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/api/jsb_cocos2dx_ui_auto_api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5290" column="21" lean-forward="true" selection-start-line="5290" selection-start-column="21" selection-end-line="5290" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/text-input/CCTextFieldTTF.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="387" column="17" lean-forward="true" selection-start-line="387" selection-start-column="17" selection-end-line="387" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/text-input/CCIMEDispatcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/texture/normal/bitmapFontTest2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/texture/normal/bitmapFontTest2.fnt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/texture/normal/CCControlColourPickerSpriteSheet.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/texture/normal/labelatlas.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/texture/normal/slider_bar_active_9patch.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/texture/normal/slider_bar_active_9patch2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/texture/normal/sliderProgress2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/texture/normal/sliderTrack.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/texture/normal/sliderballnormal.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/texture/normal/stepper-plus.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/texture/normal/switch-thumb.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/texture/normal/switch-on.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/texture/normal/switch-off.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/texture/normal/switch-mask.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+var StoreKey ={
+    a:"a"
+};

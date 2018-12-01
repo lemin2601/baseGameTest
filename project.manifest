@@ -1,0 +1,116 @@
+{
+    "packageUrl": "http://192.168.1.117:9002",
+    "version": "1.1.0",
+    "assets": {
+        "res/Default/ImageFile.png": {
+            "md5": "8b8ddbe2391511ba6e05d975dd2d9dba", 
+            "size": 1735
+        }, 
+        "src/framework/ui/BaseScene.js": {
+            "md5": "a5583a2df3ba937fb45e542366dac1be", 
+            "size": 677
+        }, 
+        "res/ui/node_popus.json": {
+            "md5": "978cdf4db93cde6c7c1648ef92d676a9", 
+            "size": 7055
+        }, 
+        "src/framework/UploadResource.js": {
+            "md5": "a5f2f5508d286c9b1b88e2a4b9b362e2", 
+            "size": 1779
+        }, 
+        "src/framework/Log.js": {
+            "md5": "1afcf78f2fea55857d05a446bf96ce64", 
+            "size": 419
+        }, 
+        "res/Default/Button_Press.png": {
+            "md5": "ea5e72abd451a76f62a2906abb7ef4bf", 
+            "size": 1153
+        }, 
+        "res/ui/scene_loading.json": {
+            "md5": "a1f32a205482ec9b301d8118d2b28c26", 
+            "size": 5103
+        }, 
+        "src/modules/menu/SceneMenu.js": {
+            "md5": "83387f68d5ac60664a988222bc94bb2f", 
+            "size": 372
+        }, 
+        "src/framework/ui/BaseCocosStudio.js": {
+            "md5": "573230316efc7e31f160a0a9325cde37", 
+            "size": 1755
+        }, 
+        "res/Default/Button_Disable.png": {
+            "md5": "fa79821349dd686f516187283bc2fb8c", 
+            "size": 1111
+        }, 
+        "res/loading.js": {
+            "md5": "9a2380798eaba56fc1fead88cdcb2196", 
+            "size": 5076
+        }, 
+        "src/framework/UpdateResource.js": {
+            "md5": "9038a7bc5831668dd1ea7366e4c3ea32", 
+            "size": 11227
+        }, 
+        "src/modules/update/SceneUpdate.js": {
+            "md5": "add92f393751186b14086fe857dc3f03", 
+            "size": 6287
+        }, 
+        "res/Default/LoadingBarFile.png": {
+            "md5": "53a230f3f1b2d64e87a742debfd489bd", 
+            "size": 1115
+        }, 
+        "src/modules/loading/SceneLoading.js": {
+            "md5": "cb8aa481e1d9aca5f69503ec61c2a169", 
+            "size": 248
+        }, 
+        "res/ui/scene_game.json": {
+            "md5": "b5588819bd9e3251f473f25f7525bdb0", 
+            "size": 3743
+        }, 
+        "res/.DS_Store": {
+            "md5": "194577a7e20bdcc7afbb718f502c134c", 
+            "size": 6148
+        }, 
+        "res/ui/scene_update.json": {
+            "md5": "9e50079296028657c7e93b5920ca18f4", 
+            "size": 5228
+        }, 
+        "src/libs/core.min.js": {
+            "md5": "a6979ad394d6e0da7f690e7be5e29b8f", 
+            "size": 12582
+        }, 
+        "src/config/LoadResource.js": {
+            "md5": "19a4d9538287531e8c4e262284e4748f", 
+            "size": 74
+        }, 
+        "res/texture/HelloWorld.png": {
+            "md5": "a01656d01186bef6bccbe35356f1f688", 
+            "size": 143085
+        }, 
+        "res/Default/Button_Normal.png": {
+            "md5": "5f8329d6525b01810d68e39036e5f066", 
+            "size": 1113
+        }, 
+        "src/framework/ui/BaseNode.js": {
+            "md5": "e3fb9b739dba0446ec43873a4df8ebb7", 
+            "size": 1272
+        }, 
+        "src/Resource.js": {
+            "md5": "cdddb2bc0702680a3df55925edf0f193", 
+            "size": 531
+        }, 
+        "src/framework/ui/Popups.js": {
+            "md5": "a9f1103932c41af6bedf449f2ba98021", 
+            "size": 161
+        }, 
+        "src/app.js": {
+            "md5": "fa1a1fb81bb6a6e7ccbd26098daeab0f", 
+            "size": 2832
+        }, 
+        "res/ui/scene_menu.json": {
+            "md5": "a19b2203cabce1329c9453808bf7ea64", 
+            "size": 9040
+        }
+    }, 
+    "remoteVersionUrl": "http://192.168.1.117:9002/version.manifest",
+    "remoteManifestUrl": "http://192.168.1.117:9002/project.manifest"
+}
